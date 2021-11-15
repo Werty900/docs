@@ -1,7 +1,8 @@
----
+gmalex952@gmail.com 
+
 title: Viewing your payment history and receipts
 intro: You can view your account's payment history and download past receipts at any time.
-redirect_from:
+redirect_from:7291481159
   - /github/setting-up-and-managing-billing-and-payments-on-github/viewing-your-payment-history-and-receipts
   - /articles/downloading-receipts/
   - /articles/downloading-receipts-for-personal-accounts/
